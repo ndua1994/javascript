@@ -1,0 +1,105 @@
+JAVASCRIPT COURSE CONTENT
+——————————————————————————
+
+1 introduction of javascript
+
+->web has client and server side scripting language.  
+-> javascript is a client side scripting language.
+->vb script and javascript are both client side scripting language.
+-> php, python,.net and more  are server side scripting langage.
+-> javascript is a event based programming language.
+    For eg,
+    Click,double click, right click, mouse over, mouse outdraw drop,
+   Key press,key download, unload, scroll, resize.
+-> uses of javascript in web development.
+    Drodown menu, animated sliders, maps, form validations,calender,animated gallery, popup window and more.
+
+
+2 how to implement javascript 
+
+ ->in page javascript and external file javascript.
+ ->document.write command.
+
+3 Implement html tags in Javascript
+
+
+4 javascript comments
+
+  ->single and multi-line comments  //
+  ->multi line comments /*    */
+
+
+5 defining multiple variables in one line as well.
+
+6 var and let  and const difference - we can define a value but can't declare let multiple times
+
+7 datatypes in javascript :  string,number,boolean,array,object,null,undefined
+
+8 arithmetic operator (+,-,*,%,/,**)
+
+9 assignment operator 
+
+7 const means constant variable
+
+8 javascript console with google chrome : console.log,console.table,console.error,console.warn,console.clear,console.time
+document.getElementById
+
+9 javascript comparison operator
+
+10 javascript if statement
+
+11 javascript if else statament
+
+12 javascript else if statment
+
+13 javascript logical operators (&&,||,!)
+
+14 javascript conditional (ternary) operator
+
+15 javascript switch statement
+
+16 javascript alert box
+
+17 javascript confirm box
+
+18 javascript prompt box
+
+19 javascript functions
+
+20 javascript functions with parameters
+
+21 javascript functions with return value
+
+22 javascript local and global variable
+
+23 javascript events (click,double click,right click,mouse hover,mouse out,mouse down,mouse up,key press,key up,load,unload,resize,scroll)
+
+24 javascript loops (for,while,do-while,foreach)
+
+25 break and continue statement
+
+26 javascript find even and odd
+
+27 javascript nested loops
+
+28 javascript arrays
+
+29 javascript multi-dimensional array
+
+30 javascript array length method
+
+31 javascript modify and delete array elements value
+
+32 javascript sort and reverse
+
+33 javascript foreach
+
+34 Document Object Model in javascript (innerHtml,style,color,id,classname,tagname)
+
+35 window open and close in javascript
+
+36 date function in javascript
+
+
+
+
